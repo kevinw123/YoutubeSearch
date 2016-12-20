@@ -134,11 +134,11 @@ footer {
 }
 
 .paging-button{
-	background: #F4F4F4;
+	background: #5BC0DE;;
 	padding: 8px 13px;
 	border: #CCC 1px solid;
 	border-radius: 5px;
-	color: #333;
+	color: #FFF;
 	margin: 10px;
-	cursor: pointer;
+	cursor:pointer;
 }
